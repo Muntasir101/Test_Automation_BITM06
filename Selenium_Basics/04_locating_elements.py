@@ -30,4 +30,19 @@ register_button.click()
 
 time.sleep(5)
 
+back_to_home_button = driver.find_element(By.CSS_SELECTOR,"form[id='customerRegisterForm'] button[type='button']")
+back_to_home_button.click()
 
+customer_login_button = driver.find_element(By.CSS_SELECTOR, "#homeLoginCustomerBtnMain")
+customer_login_button.click()
+
+customer_login_email = driver.find_element(By.CSS_SELECTOR, "#loginEmail")
+customer_login_email.send_keys("alice@gmail.com")
+
+customer_login_password = driver.find_element(By.CSS_SELECTOR, "#loginPassword")
+customer_login_password.send_keys("123456")
+
+login_button = driver.find_element(By.CSS_SELECTOR, "form[id='loginForm'] button[type='submit']")
+login_button.click()
+
+time.sleep(5)
