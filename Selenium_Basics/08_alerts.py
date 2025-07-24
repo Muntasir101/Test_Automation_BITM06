@@ -41,3 +41,5 @@ try:
     driver.switch_to.alert.accept()
 except Exception as e:
     print("Element 'JS Prompt Alert Button' not found with Explicit wait.")
+
+driver.quit()

@@ -9,16 +9,14 @@ driver.maximize_window()
 
 driver.implicitly_wait(5)
 
-driver.get("https://the-internet.herokuapp.com/hovers")
+driver.get("https://the-internet.herokuapp.com/checkboxes")
 
 try:
     wait = WebDriverWait(driver, 20)
-    user1_profile = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "body > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(3) > img:nth-child(1)")))
-
-    actions = ActionChains(driver)
-    actions.move_to_element(user1_profile).perform()
+    checkbox_option1 = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input:nth-child(1)")))
+    checkbox_option1.click()
 
 except Exception as e:
-    print("Element 'user1_profile' not found with Explicit wait.")
+    print("Element 'Checkbox' not found with Explicit wait.")
 
 driver.quit()
