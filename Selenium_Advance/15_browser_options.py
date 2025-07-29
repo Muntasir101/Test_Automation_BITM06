@@ -16,15 +16,20 @@ logging.basicConfig(
 firefox_options = Options()
 
 # Headless
-firefox_options.add_argument("--headless")
-logging.info("Headless...")
+firefox_options.add_argument("--headed")
+logging.info("Headed...")
+
+firefox_options.add_argument("--width=700")
+logging.info("Browser Width Set to 700px")
+
+firefox_options.add_argument("--height=600")
+logging.info("Browser Height Set to 600px")
 
 logging.info("Staring Browser Session...")
 driver = webdriver.Firefox(options=firefox_options)
 
 logging.info("Browser Launch Successfully.")
 
-driver.maximize_window()
 driver.implicitly_wait(5)
 
 driver.get("https://the-internet.herokuapp.com/javascript_alerts")

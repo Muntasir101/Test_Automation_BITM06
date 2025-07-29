@@ -7,3 +7,43 @@
 2025-07-29 20:27:31,245 - INFO - Alert Accept.
 2025-07-29 20:27:31,245 - INFO - Script Complete.
 2025-07-29 20:27:34,625 - INFO - End Browser Session...
+2025-07-29 20:34:40,883 - INFO - Headless...
+2025-07-29 20:34:40,883 - INFO - Staring Browser Session...
+2025-07-29 20:34:47,160 - INFO - Browser Launch Successfully.
+2025-07-29 20:34:59,122 - INFO - URL Open Successfully.
+2025-07-29 20:34:59,231 - INFO - Click on JS Normal Alert
+2025-07-29 20:34:59,241 - INFO - I am a JS Alert
+2025-07-29 20:34:59,281 - INFO - Alert Accept.
+2025-07-29 20:34:59,282 - INFO - Script Complete.
+2025-07-29 20:35:02,655 - INFO - End Browser Session...
+2025-07-29 20:37:48,444 - INFO - Headed...
+2025-07-29 20:37:48,445 - INFO - Browser Width Set to 700px
+2025-07-29 20:37:48,445 - INFO - Browser Height Set to 600px
+2025-07-29 20:37:48,445 - INFO - Staring Browser Session...
+2025-07-29 20:37:54,955 - INFO - Browser Launch Successfully.
+2025-07-29 20:38:05,482 - INFO - URL Open Successfully.
+2025-07-29 20:38:06,069 - INFO - Click on JS Normal Alert
+2025-07-29 20:38:06,073 - INFO - I am a JS Alert
+2025-07-29 20:38:06,107 - INFO - Alert Accept.
+2025-07-29 20:38:06,109 - INFO - Script Complete.
+2025-07-29 20:38:09,006 - INFO - End Browser Session...
+2025-07-29 20:38:23,357 - INFO - Headed...
+2025-07-29 20:38:23,357 - INFO - Browser Width Set to 700px
+2025-07-29 20:38:23,357 - INFO - Browser Height Set to 600px
+2025-07-29 20:38:23,357 - INFO - Staring Browser Session...
+2025-07-29 20:38:29,678 - INFO - Browser Launch Successfully.
+2025-07-29 20:38:34,358 - INFO - URL Open Successfully.
+2025-07-29 20:38:34,435 - INFO - Element 'JS Alert Button' not found with Explicit wait.
+2025-07-29 20:38:34,435 - INFO - Script Complete.
+2025-07-29 20:38:36,560 - INFO - End Browser Session...
+2025-07-29 20:38:43,296 - INFO - Headed...
+2025-07-29 20:38:43,296 - INFO - Browser Width Set to 700px
+2025-07-29 20:38:43,296 - INFO - Browser Height Set to 600px
+2025-07-29 20:38:43,296 - INFO - Staring Browser Session...
+2025-07-29 20:38:49,578 - INFO - Browser Launch Successfully.
+2025-07-29 20:38:53,574 - INFO - URL Open Successfully.
+2025-07-29 20:38:53,687 - INFO - Click on JS Normal Alert
+2025-07-29 20:38:53,691 - INFO - I am a JS Alert
+2025-07-29 20:38:53,713 - INFO - Alert Accept.
+2025-07-29 20:38:53,714 - INFO - Script Complete.
+2025-07-29 20:38:56,576 - INFO - End Browser Session...
