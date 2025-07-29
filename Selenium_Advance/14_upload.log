@@ -1,90 +1,30 @@
-2025-07-29 19:28:19,294 - INFO - Staring Browser Session...
-2025-07-29 19:28:25,828 - INFO - Browser Launch Successfully.
-2025-07-29 19:28:30,762 - INFO - URL Open Successfully.
-2025-07-29 19:28:30,762 - INFO - File Path Set Successfully.
-2025-07-29 19:28:30,796 - INFO - File Selected Successfully..
-2025-07-29 19:28:30,809 - INFO - Element not found with Explicit wait.
-2025-07-29 19:28:30,809 - INFO - Script Complete.
-2025-07-29 19:29:20,775 - INFO - Staring Browser Session...
-2025-07-29 19:29:31,999 - INFO - Browser Launch Successfully.
-2025-07-29 19:29:36,301 - INFO - URL Open Successfully.
-2025-07-29 19:29:36,301 - INFO - File Path Set Successfully.
-2025-07-29 19:29:36,347 - INFO - File Selected Successfully..
-2025-07-29 19:29:37,448 - INFO - Element not found with Explicit wait.
-2025-07-29 19:29:37,448 - INFO - Script Complete.
-2025-07-29 19:30:37,013 - INFO - Staring Browser Session...
-2025-07-29 19:30:38,212 - INFO - Browser Launch Successfully.
-2025-07-29 19:30:41,928 - INFO - URL Open Successfully.
-2025-07-29 19:30:41,928 - INFO - File Path Set Successfully.
-2025-07-29 19:30:41,985 - INFO - File Selected Successfully..
-2025-07-29 19:30:43,215 - INFO - Script Complete.
-2025-07-29 19:31:24,493 - INFO - Staring Browser Session...
-2025-07-29 19:31:25,741 - INFO - Browser Launch Successfully.
-2025-07-29 19:31:30,260 - INFO - URL Open Successfully.
-2025-07-29 19:31:30,260 - INFO - File Path Set Successfully.
-2025-07-29 19:31:30,316 - INFO - File Selected Successfully..
-2025-07-29 19:31:31,389 - INFO - Message: element click intercepted: Element is not clickable at point (245, 846)
-  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+2025-07-29 19:43:59,217 - INFO - Staring Browser Session...
+2025-07-29 19:44:05,718 - INFO - Browser Launch Successfully.
+2025-07-29 19:44:11,067 - INFO - URL Open Successfully.
+2025-07-29 19:44:11,068 - INFO - File Path Set Successfully.
+2025-07-29 19:44:11,110 - INFO - File Selected Successfully..
+2025-07-29 19:44:13,454 - INFO - Upload Button Clicked Successfully..
+2025-07-29 19:44:13,454 - INFO - Script Complete.
+2025-07-29 19:48:35,093 - INFO - Staring Browser Session...
+2025-07-29 19:48:41,573 - INFO - Browser Launch Successfully.
+2025-07-29 19:48:47,308 - INFO - URL Open Successfully.
+2025-07-29 19:48:47,308 - INFO - File Path Set Successfully.
+2025-07-29 19:48:47,384 - INFO - File Selected Successfully..
+2025-07-29 19:48:47,424 - INFO - Message: Element <button id="fileSubmit" class="btn btn-primary" type="submit"> could not be scrolled into view; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
 Stacktrace:
-	GetHandleVerifier [0x0x7ff71620e935+77845]
-	GetHandleVerifier [0x0x7ff71620e990+77936]
-	(No symbol) [0x0x7ff715fc9cda]
-	(No symbol) [0x0x7ff7160286a9]
-	(No symbol) [0x0x7ff716026042]
-	(No symbol) [0x0x7ff716023081]
-	(No symbol) [0x0x7ff716021f81]
-	(No symbol) [0x0x7ff7160136c8]
-	(No symbol) [0x0x7ff7160488ca]
-	(No symbol) [0x0x7ff716012f76]
-	(No symbol) [0x0x7ff716048ae0]
-	(No symbol) [0x0x7ff716070b07]
-	(No symbol) [0x0x7ff7160486a3]
-	(No symbol) [0x0x7ff716011791]
-	(No symbol) [0x0x7ff716012523]
-	GetHandleVerifier [0x0x7ff7164e684d+3059501]
-	GetHandleVerifier [0x0x7ff7164e0c0d+3035885]
-	GetHandleVerifier [0x0x7ff716500400+3164896]
-	GetHandleVerifier [0x0x7ff716228c3e+185118]
-	GetHandleVerifier [0x0x7ff71623054f+216111]
-	GetHandleVerifier [0x0x7ff7162172e4+113092]
-	GetHandleVerifier [0x0x7ff716217499+113529]
-	GetHandleVerifier [0x0x7ff7161fe298+10616]
-	BaseThreadInitThunk [0x0x7ffba1e3e8d7+23]
-	RtlUserThreadStart [0x0x7ffba2cdc34c+44]
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:368:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:165:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:327:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
 
-2025-07-29 19:31:31,389 - INFO - Script Complete.
-2025-07-29 19:34:17,604 - INFO - Staring Browser Session...
-2025-07-29 19:34:18,828 - INFO - Browser Launch Successfully.
-2025-07-29 19:34:26,040 - INFO - URL Open Successfully.
-2025-07-29 19:34:26,041 - INFO - File Path Set Successfully.
-2025-07-29 19:34:26,139 - INFO - File Selected Successfully..
-2025-07-29 19:34:27,253 - INFO - Message: element click intercepted: Element is not clickable at point (245, 847)
-  (Session info: chrome=138.0.7204.169); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
-Stacktrace:
-	GetHandleVerifier [0x0x7ff71620e935+77845]
-	GetHandleVerifier [0x0x7ff71620e990+77936]
-	(No symbol) [0x0x7ff715fc9cda]
-	(No symbol) [0x0x7ff7160286a9]
-	(No symbol) [0x0x7ff716026042]
-	(No symbol) [0x0x7ff716023081]
-	(No symbol) [0x0x7ff716021f81]
-	(No symbol) [0x0x7ff7160136c8]
-	(No symbol) [0x0x7ff7160488ca]
-	(No symbol) [0x0x7ff716012f76]
-	(No symbol) [0x0x7ff716048ae0]
-	(No symbol) [0x0x7ff716070b07]
-	(No symbol) [0x0x7ff7160486a3]
-	(No symbol) [0x0x7ff716011791]
-	(No symbol) [0x0x7ff716012523]
-	GetHandleVerifier [0x0x7ff7164e684d+3059501]
-	GetHandleVerifier [0x0x7ff7164e0c0d+3035885]
-	GetHandleVerifier [0x0x7ff716500400+3164896]
-	GetHandleVerifier [0x0x7ff716228c3e+185118]
-	GetHandleVerifier [0x0x7ff71623054f+216111]
-	GetHandleVerifier [0x0x7ff7162172e4+113092]
-	GetHandleVerifier [0x0x7ff716217499+113529]
-	GetHandleVerifier [0x0x7ff7161fe298+10616]
-	BaseThreadInitThunk [0x0x7ffba1e3e8d7+23]
-	RtlUserThreadStart [0x0x7ffba2cdc34c+44]
-
-2025-07-29 19:34:27,254 - INFO - Script Complete.
+2025-07-29 19:48:47,424 - INFO - Script Complete.
+2025-07-29 19:49:33,420 - INFO - Staring Browser Session...
+2025-07-29 19:49:39,673 - INFO - Browser Launch Successfully.
+2025-07-29 19:49:44,266 - INFO - URL Open Successfully.
+2025-07-29 19:49:44,266 - INFO - File Path Set Successfully.
+2025-07-29 19:49:44,301 - INFO - File Selected Successfully..
+2025-07-29 19:49:52,288 - INFO - Upload Button Clicked Successfully..
+2025-07-29 19:49:52,288 - INFO - Script Complete.
