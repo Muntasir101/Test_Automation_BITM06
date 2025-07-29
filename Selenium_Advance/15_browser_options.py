@@ -1,20 +1,27 @@
-import logging
 from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+import logging
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-
 # setup logging
 logging.basicConfig(
-    filename="logs/13_log.log",
+    filename="logs/15_browser_options.log",
     level= logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-logging.info("Staring Browser Session...")
+# initialize Firefox Options
+firefox_options = Options()
 
-driver = webdriver.Firefox()
+# Headless
+firefox_options.add_argument("--headless")
+logging.info("Headless...")
+
+logging.info("Staring Browser Session...")
+driver = webdriver.Firefox(options=firefox_options)
+
 logging.info("Browser Launch Successfully.")
 
 driver.maximize_window()

@@ -1,0 +1,9 @@
+2025-07-29 20:27:16,793 - INFO - Headless...
+2025-07-29 20:27:16,793 - INFO - Staring Browser Session...
+2025-07-29 20:27:22,374 - INFO - Browser Launch Successfully.
+2025-07-29 20:27:31,084 - INFO - URL Open Successfully.
+2025-07-29 20:27:31,217 - INFO - Click on JS Normal Alert
+2025-07-29 20:27:31,222 - INFO - I am a JS Alert
+2025-07-29 20:27:31,245 - INFO - Alert Accept.
+2025-07-29 20:27:31,245 - INFO - Script Complete.
+2025-07-29 20:27:34,625 - INFO - End Browser Session...
