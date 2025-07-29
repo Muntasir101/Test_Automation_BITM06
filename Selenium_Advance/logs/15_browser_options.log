@@ -47,3 +47,27 @@
 2025-07-29 20:38:53,713 - INFO - Alert Accept.
 2025-07-29 20:38:53,714 - INFO - Script Complete.
 2025-07-29 20:38:56,576 - INFO - End Browser Session...
+2025-07-29 20:44:43,940 - INFO - Headed...
+2025-07-29 20:44:43,940 - INFO - Browser Width Set to 700px
+2025-07-29 20:44:43,940 - INFO - Browser Height Set to 600px
+2025-07-29 20:44:43,940 - INFO - Browser in Incognito
+2025-07-29 20:44:43,940 - INFO - Staring Browser Session...
+2025-07-29 20:44:51,520 - INFO - Browser Launch Successfully.
+2025-07-29 20:45:01,402 - INFO - URL Open Successfully.
+2025-07-29 20:45:01,625 - INFO - Click on JS Normal Alert
+2025-07-29 20:45:01,631 - INFO - I am a JS Alert
+2025-07-29 20:45:01,670 - INFO - Alert Accept.
+2025-07-29 20:45:01,670 - INFO - Script Complete.
+2025-07-29 20:45:04,559 - INFO - End Browser Session...
+2025-07-29 20:45:55,558 - INFO - Headed...
+2025-07-29 20:45:55,558 - INFO - Browser Width Set to 700px
+2025-07-29 20:45:55,558 - INFO - Browser Height Set to 600px
+2025-07-29 20:45:55,558 - INFO - Browser in Incognito
+2025-07-29 20:45:55,558 - INFO - Staring Browser Session...
+2025-07-29 20:46:01,991 - INFO - Browser Launch Successfully.
+2025-07-29 20:46:06,343 - INFO - URL Open Successfully.
+2025-07-29 20:46:06,485 - INFO - Click on JS Normal Alert
+2025-07-29 20:46:06,493 - INFO - I am a JS Alert
+2025-07-29 20:46:06,531 - INFO - Alert Accept.
+2025-07-29 20:46:06,531 - INFO - Script Complete.
+2025-07-29 20:46:09,399 - INFO - End Browser Session...

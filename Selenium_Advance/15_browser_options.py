@@ -25,6 +25,10 @@ logging.info("Browser Width Set to 700px")
 firefox_options.add_argument("--height=600")
 logging.info("Browser Height Set to 600px")
 
+# browser launch in incognito
+firefox_options.add_argument("--private")
+logging.info("Browser in Incognito")
+
 logging.info("Staring Browser Session...")
 driver = webdriver.Firefox(options=firefox_options)
 
