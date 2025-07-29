@@ -1,0 +1,8 @@
+2025-07-29 18:57:06,455 - INFO - Staring Browser Session...
+2025-07-29 18:57:12,687 - INFO - Browser Launch Successfully.
+2025-07-29 18:57:29,200 - INFO - URL Open Successfully.
+2025-07-29 18:57:29,312 - INFO - Click on JS Normal Alert
+2025-07-29 18:57:29,320 - INFO - I am a JS Alert
+2025-07-29 18:57:29,347 - INFO - Alert Accept.
+2025-07-29 18:57:29,347 - INFO - Script Complete.
+2025-07-29 18:57:32,214 - INFO - End Browser Session...
