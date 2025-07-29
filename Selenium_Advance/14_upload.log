@@ -1,16 +1,9 @@
-2025-07-29 19:43:59,217 - INFO - Staring Browser Session...
-2025-07-29 19:44:05,718 - INFO - Browser Launch Successfully.
-2025-07-29 19:44:11,067 - INFO - URL Open Successfully.
-2025-07-29 19:44:11,068 - INFO - File Path Set Successfully.
-2025-07-29 19:44:11,110 - INFO - File Selected Successfully..
-2025-07-29 19:44:13,454 - INFO - Upload Button Clicked Successfully..
-2025-07-29 19:44:13,454 - INFO - Script Complete.
-2025-07-29 19:48:35,093 - INFO - Staring Browser Session...
-2025-07-29 19:48:41,573 - INFO - Browser Launch Successfully.
-2025-07-29 19:48:47,308 - INFO - URL Open Successfully.
-2025-07-29 19:48:47,308 - INFO - File Path Set Successfully.
-2025-07-29 19:48:47,384 - INFO - File Selected Successfully..
-2025-07-29 19:48:47,424 - INFO - Message: Element <button id="fileSubmit" class="btn btn-primary" type="submit"> could not be scrolled into view; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+2025-07-29 19:57:27,633 - INFO - Staring Browser Session...
+2025-07-29 19:57:33,807 - INFO - Browser Launch Successfully.
+2025-07-29 19:57:37,661 - INFO - URL Open Successfully.
+2025-07-29 19:57:37,661 - INFO - File Path Set Successfully.
+2025-07-29 19:57:37,697 - INFO - File Selected Successfully..
+2025-07-29 19:57:42,739 - INFO - Message: Element <button id="fileSubmit" class="btn btn-primary" type="submit"> could not be scrolled into view; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
@@ -20,11 +13,4 @@ interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:
 clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:327:29
 receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
 
-2025-07-29 19:48:47,424 - INFO - Script Complete.
-2025-07-29 19:49:33,420 - INFO - Staring Browser Session...
-2025-07-29 19:49:39,673 - INFO - Browser Launch Successfully.
-2025-07-29 19:49:44,266 - INFO - URL Open Successfully.
-2025-07-29 19:49:44,266 - INFO - File Path Set Successfully.
-2025-07-29 19:49:44,301 - INFO - File Selected Successfully..
-2025-07-29 19:49:52,288 - INFO - Upload Button Clicked Successfully..
-2025-07-29 19:49:52,288 - INFO - Script Complete.
+2025-07-29 19:57:42,739 - INFO - Script Complete.

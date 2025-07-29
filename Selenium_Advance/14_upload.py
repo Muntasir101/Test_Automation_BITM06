@@ -26,7 +26,7 @@ logging.info("URL Open Successfully.")
 
 try:
     wait = WebDriverWait(driver, 20)
-    file_name = "Google_img.png"
+    file_name = "SRS.docx"
     file_path = os.path.abspath(os.path.join("files",file_name))
     logging.info("File Path Set Successfully.")
 
